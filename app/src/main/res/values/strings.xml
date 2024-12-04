@@ -7,6 +7,7 @@
     <string name="error_no_sexo_seleccionado">No seleccionaste ningún sexo, debes reiniciar.</string>
     <string name="error_no_especie_seleccionada">No seleccionaste ninguna especie, debes reiniciar.</string>
     <string name="error_no_profesion_seleccionada">No seleccionaste ninguna profesión, debes reiniciar.</string>
+    <string name="error_OnAttach"> debe implementar OnDialogosListener</string>
 
     <!--Títulos -->
     <string name="titulo_nombre">Nombre</string>

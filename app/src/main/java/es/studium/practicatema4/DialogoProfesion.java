@@ -60,7 +60,7 @@ public class DialogoProfesion extends DialogFragment
         }
         catch (ClassCastException e)
         {
-            throw new ClassCastException(context.toString() + " debe implementar OnDialogosListener");
+            throw new ClassCastException(context.toString() + R.string.error_OnAttach);
         }
     }
 }
