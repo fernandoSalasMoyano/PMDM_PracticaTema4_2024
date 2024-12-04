@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="hint_nombre">Introduzca su nombre...</string>
+
+    <!--Errores -->
+    <string name="eror_nombre_vacio">No introduciste ningún nombre, debes reiniciar.</string>
+    <string name="error_no_sexo_seleccionado">No seleccionaste ningún sexo, debes reiniciar.</string>
+    <string name="error_no_especie_seleccionada">No seleccionaste ninguna especie, debes reiniciar.</string>
+    <string name="error_no_profesion_seleccionada">No seleccionaste ninguna profesión, debes reiniciar.</string>
+
+    <!--Títulos -->
+    <string name="titulo_nombre">Nombre</string>
+    <string name="titulo_sexo">Sexo</string>
+    <string name="titulo_especie">Especie</string>
+    <string name="titulo_profesion">Profesión</string>
+
+    <!--Botones de acpetar, cancelar y reiniciar-->
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_reiniciar">Reiniciar</string>
+
+    <!--Radiobutton sexo -->
+    <string name="rdb_hombre">Hombre</string>
+    <string name="rdb_mujer">Mujer</string>
+
+    <!--Radiobutton especie -->
+    <string name="rdb_elfo">Elfo</string>
+    <string name="rdb_enano">Enano</string>
+    <string name="rdb_hobbit">Hobbit</string>
+    <string name="rdb_humano">Humano</string>
+
+    <!--Radiobutton profesion -->
+    <string name="rdb_arquero">Arquero</string>
+    <string name="rdb_guerrero">Guerrero</string>
+    <string name="rdb_mago">Mago</string>
+    <string name="rdb_herrero">Herrero</string>
+    <string name="rdb_minero">Minero</string>
+
+    <!--Habilidades -->
+    <string name="vida">Vida: </string>
+    <string name="magia">Magia: </string>
+    <string name="fuerza">Fuerza: </string>
+    <string name="velocidad">Velocidad: </string>
+
+    <!--Toast reiniciado -->
+    <string name="reiniciado">Reiniciado</string>
+</resources>
